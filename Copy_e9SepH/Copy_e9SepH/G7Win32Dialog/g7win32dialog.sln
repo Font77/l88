@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "G7Win32Dialog", "g7win32dialog\g7win32dialog.vcproj", "{F05067BE-8D14-4BC1-B698-9E7350D11905}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1E46752D-E461-4193-97C5-9340DC2F3619}"
+	ProjectSection(SolutionItems) = preProject
+		g7win32dialog\res\G7.ico = g7win32dialog\res\G7.ico
+		g7win32dialog\res\keypad7.ico = g7win32dialog\res\keypad7.ico
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F05067BE-8D14-4BC1-B698-9E7350D11905}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F05067BE-8D14-4BC1-B698-9E7350D11905}.Debug|Win32.Build.0 = Debug|Win32
+		{F05067BE-8D14-4BC1-B698-9E7350D11905}.Release|Win32.ActiveCfg = Release|Win32
+		{F05067BE-8D14-4BC1-B698-9E7350D11905}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
