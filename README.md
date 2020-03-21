@@ -1,1 +1,3 @@
-# qibord77
+# kibord
+fb.me/heksoin
+vk.com/etphor
